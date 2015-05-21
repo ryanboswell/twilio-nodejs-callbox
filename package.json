@@ -1,5 +1,5 @@
 {
-  "name": "secure-sea-5316",
+  "name": "node-callbox",
   "version": "0.1.0",
   "description": "A simple NodeJS based callbox for an apartment.",
   "main": "app.js",
@@ -15,6 +15,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/ryanboswell/secure-sea-5316"
+    "url": "https://github.com/ryanboswell/node-callbox"
   }
 }
